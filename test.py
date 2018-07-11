@@ -14,3 +14,6 @@ class Arithmetic(object):
 
     def describe(self):
         return print('Can be use')
+
+    def sakto(self):
+        return print('Sakto ni siya Marc')
