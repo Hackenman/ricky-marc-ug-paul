@@ -11,6 +11,7 @@ class Arithmetic(object):
     
     def sub(self)
         return self.num1 - self.num2
+    
     def mean(self):
         return (self.num1 + self.num2) / 2
 
