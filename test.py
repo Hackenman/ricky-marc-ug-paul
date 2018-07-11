@@ -13,4 +13,4 @@ class Arithmetic(object):
         return (self.num1 + self.num2) / 2
 
     def describe(self):
-        return print('Not yet')
+        return print('Can be use')
